@@ -3,8 +3,8 @@
 <url> <loc>https://madhusona.github.io/GE8151/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://madhusona.github.io/GE8151/Unit-III</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-IV</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/Unit-III</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-V</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/1-algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/2-building</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -18,20 +18,20 @@
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/3-pythoninterpreter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/4-values and types</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/5-variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://madhusona.github.io/GE8151/Unit-II/6-Expression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/7-statement</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/Unit-II/6-Expression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/9-precedence of operators</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/comments</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/Illustrative programs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/Unit-I/3-functions/1-function examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/2-building/1-Sequence Examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/2-building/2-Selection Example</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/2-building/3-Iteration Example</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://madhusona.github.io/GE8151/Unit-I/3-functions/1-function examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/4-pseudocode/examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-I/7-illustrativeproblems/guess</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/2-Comparison</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/1-Arithmetic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/2-Comparison</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/3-Logical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/4-Bitwise</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/Unit-II/8-operators/5-Assignment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
