@@ -4,7 +4,6 @@
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-I</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-II</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-IV</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-V</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-I/1-algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-I/2-building</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -37,4 +36,35 @@
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-II/8-operators/5-Assignment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-II/8-operators/6-Membership</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-II/8-operators/7-identity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/1-BooleanExpression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/2-if</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/2-if/3-if-else</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/2-if/5-nested</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/2-if/4-if-elif-else</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/1-while</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/2-for</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/3-range</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/4-break</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/5-continue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/3-iterative/6-pass</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/4-fruitfulfunctions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/4-fruitfulfunctions/1-parameters</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/4-fruitfulfunctions/2-Function Arguments</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/6-Composition</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/5-Scope of Variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/7-recursion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/8-string</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/8-string/1-stringoperations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/8-string/2-stringslice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/8-string/3-immutablestrings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/8-string/4-stringmethods</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/1-squareroot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/2-gcd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/3-Exponentiation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/4-sumofarray</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/5-linearsearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://madhusona.github.io/GE8151/GE8151/Unit-III/9-Programs/6-binarysearch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
